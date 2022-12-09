@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="domain.FindLongestStringListUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-09T12:08:52" hostname="TTB-GYL7VV6F99" time="0.043">
+  <properties/>
+  <testcase name="test get list which size is 2 when there are two longest string()" classname="domain.FindLongestStringListUseCaseTest" time="0.036"/>
+  <testcase name="test get empty list when given input is empty list()" classname="domain.FindLongestStringListUseCaseTest" time="0.002"/>
+  <testcase name="test get list which size is 1 when there is only one longest string()" classname="domain.FindLongestStringListUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
