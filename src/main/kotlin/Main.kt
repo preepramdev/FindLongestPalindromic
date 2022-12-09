@@ -14,6 +14,6 @@ fun main() {
     val result1 = findLongestPalindromicListUseCase.execute("babad")
     val result2 = findLongestPalindromicListUseCase.execute("cbbd")
 
-    println("result1 $result1")
-    println("result2 $result2")
+    println("result1 $result1") // [aba, bab]
+    println("result2 $result2") // [bb]
 }
